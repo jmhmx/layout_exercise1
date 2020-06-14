@@ -1,0 +1,26 @@
+{
+  "name": "layout_exercise1",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 de maquetación con HTML y CSS puro – PLATZI MASTER cohort-4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmhmx/layout_exercise1.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "PLATZI",
+    "PLATZI",
+    "MASTER"
+  ],
+  "author": "JMHM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmhmx/layout_exercise1/issues"
+  },
+  "homepage": "https://github.com/jmhmx/layout_exercise1#readme"
+}
